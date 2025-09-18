@@ -19,7 +19,7 @@ coverY: 0
 ### Clone the Project
 
 ```bash
-git clone https://github.com/onboarding-resources/real-world-asset.git
+git clone https://github.com/onboarding-helper/real-world-asset.git
 ```
 
 ```
